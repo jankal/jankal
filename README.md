@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **Domain-Driven Design**
 
-- 💬 Ask me about **Vue, Laravel and Symfony**
+- 💬 Ask me about ** Sopware, Symfony and Nuxt.js**
+
+- 🤷🏻‍♂️ Trying to hide from customers with varying success
 
 - 📫 How to reach me **github@alexanderjank.de**
 
